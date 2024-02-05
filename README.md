@@ -5,8 +5,17 @@
 - create-router-dom
 - header
 - login form
+- Sign up form
+- Form validation
+- useRef hook
+- firebase install
+- deploying app to production
+- create SignUp user account in firebase
+- implement sign in user API
+- created redux store with user slice
+- implemented sign out
 
-# features
+# featuresu
 
 - login/sign up page
   - sign in/sign up form
